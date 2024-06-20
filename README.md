@@ -2,7 +2,7 @@
 
 Author: [Sayan Roy](https://github.com/sayanroy1302)
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https%3A%2F%2Fraw.githubusercontent.com%2Fsayanroy1302%2FWorkbook-AFD-WAF-Triage-Workbook%2Fmain%2FAFD%20WAF%20Triage%20Workbook.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fsayanroy1302%2FWorkbook-AFD-WAF-Triage-Workbook%2Fmain%2FAFD%20WAF%20Triage%20Workbook.json)
 
 This workbook visualizes Azure FrontDoor WAF rule violations and helps with triaging those so to facilitate tuning the WAF against valid traffic.
 
