@@ -6,9 +6,9 @@ Author: [Sayan Roy](https://github.com/sayanroy1302)
 
 This workbook visualizes Azure FrontDoor WAF rule violations and helps with triaging those so to facilitate tuning the WAF against valid traffic.
 
-This workbook is designed to parse WAF logs from Application Gateway WAF V2 configured with WAF Policy.
+This workbook is designed to parse WAF logs from Azure FrontDoor WAF configured with WAF Policy.
 
-Often companies struggle to parse the logs from the Application Gateway Web Application Firewall and triage them to determine which ones are true violations and which ones are false positives. Especially during the design phase of an application, it is important to review these logs and make sure to adapt the application and/or WAF configuration so to eliminate false positives. This is where this workbook might help.
+Often companies struggle to parse the logs from the Azure FrontDoor Web Application Firewall and triage them to determine which ones are true violations and which ones are false positives. Especially during the design phase of an application, it is important to review these logs and make sure to adapt the application and/or WAF configuration so to eliminate false positives. This is where this workbook might help.
 
 
 ## Deploying the Workbook
