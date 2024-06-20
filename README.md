@@ -18,6 +18,8 @@ To deploy this workbook, click the button "Deploy to Azure".  Fill in the reques
 - `Workbook Display Name`: the name of the workbook as it will be shown in the portal
 - `Workbook Source Id`: the full Resource ID of the Log Analytics workspace you want to link to workbook to.  Example of a value: /subscriptions/'GUID'/resourcegroups/'RG Name'/providers/microsoft.operationalinsights/workspaces/'Workspace Name'
 
+![image](https://github.com/sayanroy1302/Workbook-AFD-WAF-Triage-Workbook/assets/141024289/55a07242-1c6a-421a-a8e4-b3ba32ed82ce)
+
 Then click "Review + create".
 
 _**Note**: If you need to use the transaction ID in the FrontDoorAccessLog, then replace "host_s" with "hostName_s" in the join between ApplicationGatewayAccessLog and FrontDoorWebApplicationFirewallLog_
